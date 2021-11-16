@@ -1,0 +1,8 @@
+package main; func main ( ) {
+    d := 4;e := 5
+
+    switch d {
+        case 4:
+            if e == 5{return}else {e = 5;}
+    }
+}

@@ -1,0 +1,25 @@
+package main
+
+func main() {
+    a := 2
+    a := 5
+    b := a * 2
+    b = a + true
+    a = "hmmm"
+    c := 1 * 5 / 10 <= 2 / 45
+    a = c
+
+    if a {
+
+
+
+    switch {
+        case 1:
+            a := true
+            b := a + 2
+            d := 2.2
+    }
+
+    d = 5.5
+}
+

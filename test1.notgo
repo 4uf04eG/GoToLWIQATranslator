@@ -1,0 +1,22 @@
+package main
+
+func main() {
+    a := 2
+
+    switch a {
+            case 1:
+                a := 2; b := 1 * 5 / 10 <= 2 / 45
+                switch {
+                    case a == 5:
+                        d := 4
+                }
+            case 2:
+                a = 2
+            default:
+                c := 3
+    }
+
+    if a == 2 {
+        d := "some" + "string";
+    }
+}
